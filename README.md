@@ -1,5 +1,5 @@
 # google-share-link
-share url without being blocked by facebook. Demo Visit <a href='https://lewatso.blogspot.com' target='_Blank'>https://lewatso.blogspot.com</a>
+share url without being blocked by facebook. Demo Visit <a href='https://lewatso.blogspot.com' target='_Blank'>lewatso.blogspot.com</a>
 
 Thanks To :<br/>
 Creator Cooding 1 : @Abdi Syahputra Harahap<br/>
